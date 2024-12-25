@@ -75,12 +75,3 @@ For more projects, visit my GitHub profile: [GitHub - Prajwal Shekhar Gujar](htt
 
 ---
 
-## ⚙️ Getting Started
-### Prerequisites
-- Web browser for viewing the live portfolio.
-- Basic knowledge of HTML, CSS, and Git if you want to modify this repository.
-
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Prajwal-Shekhar-Gujar/Prajwal-Portfolio.git
