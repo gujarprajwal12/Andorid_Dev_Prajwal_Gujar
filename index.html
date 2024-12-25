@@ -10,20 +10,22 @@
 <body>
     <!-- Header -->
     <header>
-        <h1>Prajwal Shekhar Gujar</h1>
-        <p>Passionate Android Developer | Kotlin Enthusiast</p>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#projects">Projects</a>
-            <a href="#skills">Skills</a>
-            <a href="#contact">Contact</a>
-        </nav>
+        <div class="hero">
+            <h1>Prajwal Shekhar Gujar</h1>
+            <p>Android Developer | Kotlin Enthusiast</p>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#projects">Projects</a>
+                <a href="#skills">Skills</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
     </header>
 
     <!-- Main Content -->
     <main>
         <!-- About Section -->
-        <section id="about">
+        <section id="about" class="section">
             <h2>About Me</h2>
             <p>
                 I am an Android Developer with over 3 years of experience designing, developing, and maintaining 
@@ -33,60 +35,42 @@
         </section>
 
         <!-- Projects Section -->
-        <section id="projects">
+        <section id="projects" class="section">
             <h2>Projects</h2>
-            <ul>
-                <li>
-                    <i class="fas fa-mobile-alt"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=autosgrid" target="_blank">
-                        Autosgrid
-                    </a>
-                    - Enhanced security application.
-                </li>
-                <li>
-                    <i class="fas fa-clock"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=easypunch" target="_blank">
-                        Easy Punch
-                    </a>
-                    - Employee attendance tracking app.
-                </li>
-                <li>
-                    <i class="fas fa-satellite-dish"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=tekelekradar" target="_blank">
-                        Tekelek Radar
-                    </a>
-                    - Radar management application.
-                </li>
-                <li>
-                    <i class="fas fa-lungs"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=siahealthy" target="_blank">
-                        SiA for Healthy Lungs
-                    </a>
-                    - Respiratory health monitoring app.
-                </li>
-                <li>
-                    <i class="fas fa-unicorn"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=unicorn" target="_blank">
-                        Unicorn
-                    </a>
-                    - Pitch deck and funding app.
-                </li>
-                <li>
-                    <i class="fas fa-truck"></i> 
-                    <a href="https://play.google.com/store/apps/details?id=dispatch" target="_blank">
-                        Dispatch
-                    </a>
-                    - Transportation monitoring application.
-                </li>
-            </ul>
+            <div class="card-container">
+                <div class="card">
+                    <i class="fas fa-mobile-alt"></i>
+                    <h3>Autosgrid</h3>
+                    <p>Enhanced security application.</p>
+                    <a href="https://play.google.com/store/apps/details?id=autosgrid" target="_blank">View on Play Store</a>
+                </div>
+                <div class="card">
+                    <i class="fas fa-clock"></i>
+                    <h3>Easy Punch</h3>
+                    <p>Employee attendance tracking app.</p>
+                    <a href="https://play.google.com/store/apps/details?id=easypunch" target="_blank">View on Play Store</a>
+                </div>
+                <div class="card">
+                    <i class="fas fa-satellite-dish"></i>
+                    <h3>Tekelek Radar</h3>
+                    <p>Radar management application.</p>
+                    <a href="https://play.google.com/store/apps/details?id=tekelekradar" target="_blank">View on Play Store</a>
+                </div>
+                <div class="card">
+                    <i class="fas fa-lungs"></i>
+                    <h3>SiA for Healthy Lungs</h3>
+                    <p>Respiratory health monitoring app.</p>
+                    <a href="https://play.google.com/store/apps/details?id=siahealthy" target="_blank">View on Play Store</a>
+                </div>
+            </div>
         </section>
 
         <!-- Skills Section -->
-        <section id="skills">
+        <section id="skills" class="section">
             <h2>Skills</h2>
-            <ul>
+            <ul class="skills-list">
                 <li><i class="fas fa-code"></i> Kotlin</li>
-                <li><i class="fas fa-code"></i> Java (Basic)</li>
+                <li><i class="fas fa-code"></i> Java </li>
                 <li><i class="fas fa-tools"></i> Android Studio</li>
                 <li><i class="fas fa-database"></i> Firebase, SQLite, Room</li>
                 <li><i class="fas fa-drafting-compass"></i> Material Design Principles</li>
@@ -95,7 +79,7 @@
         </section>
 
         <!-- Contact Section -->
-        <section id="contact">
+        <section id="contact" class="section">
             <h2>Contact</h2>
             <p><i class="fas fa-envelope"></i> Email: <a href="mailto:gujarprajwal12@gmail.com">gujarprajwal12@gmail.com</a></p>
             <p><i class="fas fa-phone-alt"></i> Phone: +91 7040452312, +91 8999326370</p>
