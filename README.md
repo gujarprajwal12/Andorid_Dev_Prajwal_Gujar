@@ -1,77 +1,74 @@
-# Prajwal Shekhar Gujar Portfolio
+# Prajwal Shekhar Gujar - Android Developer
 
-Welcome to my personal portfolio! This repository contains the source code for my professional portfolio website hosted on GitHub Pages. It showcases my work, skills, and experience as an Android Developer.
-
-## 🚀 Live Demo
-Check out my live portfolio here: [Prajwal Portfolio](https://Prajwal-Shekhar-Gujar.github.io/Prajwal-Portfolio)
+Welcome to my portfolio! I am Prajwal Shekhar Gujar, an experienced Android Developer specializing in building efficient, user-friendly mobile applications with Kotlin and Android SDK.
 
 ---
 
-## 📖 Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Contact](#contact)
-- [Getting Started](#getting-started)
-- [License](#license)
-
----
-
-## 👨‍💻 About Me
-I am an Android Developer with over 3 years of experience designing, developing, and maintaining high-quality mobile applications. I specialize in creating user-friendly apps that focus on performance and experience.
-
----
-
-## 🛠️ Projects
-### Notable Applications on Google Play Store:
-1. **[Autosgrid](https://play.google.com/store/apps/details?id=autosgrid):** Enhanced security application.
-2. **[Easy Punch](https://play.google.com/store/apps/details?id=easypunch):** Employee attendance tracking app.
-3. **[Tekelek Radar](https://play.google.com/store/apps/details?id=tekelekradar):** Radar management app.
-4. **[SiA for Healthy Lungs](https://play.google.com/store/apps/details?id=siahealthy):** Respiratory health monitoring app.
-5. **[Unicorn](https://play.google.com/store/apps/details?id=unicorn):** Pitch deck and funding app.
-6. **[Dispatch](https://play.google.com/store/apps/details?id=dispatch):** Transportation monitoring application.
-
-For more projects, visit my GitHub profile: [GitHub - Prajwal Shekhar Gujar](https://github.com/Prajwal-Shekhar-Gujar)
-
----
-
-## 💻 Skills
-### Technical Skills:
-- **Programming Languages:** Kotlin, Java
-- **Tools & Technologies:** Android Studio, IntelliJ IDEA, Gradle, XML
-- **Databases:** Firebase, SQLite, Room
-- **APIs:** RESTful APIs, Google Maps API, Firebase Integration
-- **User Experience:** Material Design Principles, UI/UX Best Practices
-- **Version Control:** Git, GitHub, GitLab
-
-### Soft Skills:
-- Problem-solving
-- Creativity
-- Communication
-- Team Collaboration
-
----
-
-## 🌟 Experience
-### Android Developer
-**Barquecon Technologies**  
-*September 2021 – September 2024*  
-- Designed and maintained Android applications for healthcare, finance, and transportation sectors.
-- Communicated with clients to gather requirements and ensure timely delivery.
-- Launched apps achieving high user satisfaction and ratings.
-
-#### Key Projects:
-1. **Healthcare App:** Streamlined healthcare services and patient management.
-2. **Transport App:** Real-time vehicle tracking and scheduling system.
-
----
-
-## 📩 Contact
-- **Email:** [gujarprajwal12@gmail.com](mailto:gujarprajwal12@gmail.com)  
+## 🌟 About Me
 - **Phone:** +91 7040452312, +91 8999326370  
+- **Email:** [gujarprajwal12@gmail.com](mailto:gujarprajwal12@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/prajwal-gujar-a3303913b](https://linkedin.com/in/prajwal-gujar-a3303913b)  
-- **GitHub:** [Prajwal-Shekhar-Gujar](https://github.com/Prajwal-Shekhar-Gujar)
+- **GitHub:** [github.com/gujarprajwal12](https://github.com/gujarprajwal12)  
+- **Portfolio Website:** [Visit My Portfolio](https://gujarprajwal12.github.io/)
 
 ---
 
+## 🛠 Skills and Expertise
+### **Technical Skills**
+- **Programming Languages:** Kotlin, Java  
+- **Tools & Technologies:** Android Studio, IntelliJ IDEA, Gradle, XML  
+- **Databases:** Firebase, SQLite, Room  
+- **Android SDK & APIs:** RESTful APIs, Google Maps API, Firebase Integration  
+- **UI/UX Design:** Material Design, User Experience best practices  
+- **Version Control:** Git, GitHub, GitLab  
+
+### **Soft Skills**
+- Problem-solving  
+- Creativity  
+- Communication  
+- Team Collaboration  
+
+---
+
+## 📚 Education
+- **Bachelor of Engineering in Computer Engineering**  
+  *Savitribai Phule Pune University – Amrutvahini College of Engineering, Sangamner*  
+  **2015 – 2019** | GPA: 6.69  
+
+---
+
+## 💼 Professional Experience
+### **Android Developer | Barquecon Technologies**  
+**September 2021 – September 2024**  
+- Designed and maintained Android applications for healthcare, finance, and transportation industries.  
+- Delivered high-performing apps on the Google Play Store, achieving top user ratings.  
+- Conducted code reviews and debugging to maintain industry best practices.  
+
+### **Key Projects**
+1. **Healthcare App:** Streamlined healthcare services and patient management.  
+2. **Transport App:** Provided real-time vehicle tracking and scheduling.  
+
+---
+
+## 📱 Notable Applications on Google Play Store
+1. **[Autosgrid](https://play.google.com/store/apps/details?id=com.autosgrid):** Enhanced security application.  
+2. **[Easy Punch](https://play.google.com/store/apps/details?id=com.easy.punch):** Employee attendance tracking.  
+3. **[Tekelek Radar](https://play.google.com/store/apps/details?id=com.tek889):** Radar management application.  
+4. **[SiA for Healthy Lungs](https://play.google.com/store/apps/details?id=app.briota.sia):** Respiratory health monitoring.  
+5. **[Unicorn](https://play.google.com/store/apps/details?id=com.unicorn.app):** Funding and pitch deck platform.  
+6. **Dispatch:** Real-time transportation monitoring.  
+
+---
+
+## 💡 Interests
+- **Gadgets:** Passionate about exploring new technology.  
+- **Cycling & Swimming:** Enjoy outdoor activities to stay fit.  
+
+---
+
+## 🔗 Connect with Me
+- **Email:** [gujarprajwal12@gmail.com](mailto:gujarprajwal12@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/prajwal-gujar-a3303913b](https://linkedin.com/in/prajwal-gujar-a3303913b)  
+- **GitHub:** [github.com/gujarprajwal12](https://github.com/gujarprajwal12)  
+
+Feel free to explore my work and reach out for collaborations or inquiries!
