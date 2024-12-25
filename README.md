@@ -9,7 +9,7 @@ Welcome to my portfolio! I am Prajwal Shekhar Gujar, an experienced Android Deve
 - **Email:** [gujarprajwal12@gmail.com](mailto:gujarprajwal12@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/prajwal-gujar-a3303913b](https://linkedin.com/in/prajwal-gujar-a3303913b)  
 - **GitHub:** [github.com/gujarprajwal12](https://github.com/gujarprajwal12)  
-- **Portfolio Website:** [Visit My Portfolio](https://gujarprajwal12.github.io/)
+- **Portfolio Website:** [Visit My Portfolio](https://gujarprajwal12.github.io/Andorid_Dev_Prajwal_Gujar/)
 
 ---
 
@@ -67,8 +67,10 @@ Welcome to my portfolio! I am Prajwal Shekhar Gujar, an experienced Android Deve
 ---
 
 ## 🔗 Connect with Me
+- **Phone:** +91 7040452312, +91 8999326370  
 - **Email:** [gujarprajwal12@gmail.com](mailto:gujarprajwal12@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/prajwal-gujar-a3303913b](https://linkedin.com/in/prajwal-gujar-a3303913b)  
 - **GitHub:** [github.com/gujarprajwal12](https://github.com/gujarprajwal12)  
+- **Portfolio Website:** [Visit My Portfolio](https://gujarprajwal12.github.io/Andorid_Dev_Prajwal_Gujar/)
 
-Feel free to explore my work and reach out for collaborations or inquiries!
+
