@@ -38,7 +38,7 @@ For more projects, visit my GitHub profile: [GitHub - Prajwal Shekhar Gujar](htt
 
 ## 💻 Skills
 ### Technical Skills:
-- **Programming Languages:** Kotlin, Java (Basic)
+- **Programming Languages:** Kotlin, Java
 - **Tools & Technologies:** Android Studio, IntelliJ IDEA, Gradle, XML
 - **Databases:** Firebase, SQLite, Room
 - **APIs:** RESTful APIs, Google Maps API, Firebase Integration
