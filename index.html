@@ -3,166 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prajwal Shekhar Gujar - Portfolio</title>
+    <title>Prajwal Shekhar Gujar - Android Developer</title>
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        .contact-links {
-            margin-top: 15px;
-        }
-        .contact-links a {
-            margin: 0 10px;
-            color: #007BFF;
-            text-decoration: none;
-            font-size: 1.2em;
-        }
-        .contact-links a:hover {
-            color: #0056b3;
-        }
-        section {
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            max-width: 800px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #333;
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        ul li {
-            margin: 10px 0;
-        }
-        ul li i {
-            margin-right: 8px;
-            color: #007BFF;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background: #333;
-            color: #fff;
-        }
-    </style>
+    <script defer src="script.js"></script>
 </head>
 <body>
     <header>
         <h1>Prajwal Shekhar Gujar</h1>
-        <p>Android Developer | Kotlin Enthusiast</p>
+        <p>Android Developer | Kotlin Enthusiast | Mobile App Architect</p>
+        <button id="theme-toggle">🌙 Toggle Dark Mode</button>
         <div class="contact-links">
-            <a href="tel:+917040452312" title="Call Prajwal"><i class="fas fa-phone"></i></a>
-            <a href="mailto:gujarprajwal12@gmail.com" title="Email Prajwal"><i class="fas fa-envelope"></i></a>
-            <a href="https://linkedin.com/in/prajwal-gujar-a3303913b" title="LinkedIn Profile"><i class="fab fa-linkedin"></i></a>
-            <a href="https://github.com/gujarprajwal12" title="GitHub Profile"><i class="fab fa-github"></i></a>
+            <a href="https://linkedin.com/in/prajwal-gujar-a3303913b" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/gujarprajwal12" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="mailto:gujarprajwal12@gmail.com"><i class="fas fa-envelope"></i></a>
         </div>
     </header>
 
-    <section>
-        <h2>Summary</h2>
-        <p>Android Developer with 3+ years of experience designing, developing, and maintaining high-quality mobile applications. Proficient in Kotlin, Android Studio, and Android SDK with a strong focus on user experience and app performance. Adept at delivering projects on time through both independent and collaborative efforts, consistently achieving high user satisfaction.</p>
-    </section>
+    <section class="projects">
+        <h2>My Projects</h2>
 
-    <section>
-        <h2>Education</h2>
-        <p><strong>Bachelor of Engineering in Computer Engineering</strong><br>
-        Savitribai Phule Pune University – Amrutvahini College of Engineering, Sangamner<br>
-        2015 – 2019 | GPA: 6.69</p>
-    </section>
+        <div class="project">
+            <h3>Autosgrid</h3>
+            <p>Security-enhanced mobile app with real-time updates.</p>
+            <a href="https://play.google.com/store/apps/details?id=com.autosgrid" target="_blank">
+                <img src="playstore-badge.png" alt="Get it on Google Play">
+            </a>
+        </div>
 
-    <section>
-        <h2>Languages</h2>
-        <ul>
-            <li><i class="fas fa-check"></i> English: Fluent</li>
-            <li><i class="fas fa-check"></i> Marathi: Native</li>
-            <li><i class="fas fa-check"></i> Hindi: Conversational</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Skills</h2>
-        <h3>Technical Skills:</h3>
-        <ul>
-            <li><i class="fas fa-code"></i> Programming Languages: Kotlin, Java</li>
-            <li><i class="fas fa-cogs"></i> Tools & Technologies: Android Studio, IntelliJ IDEA, Gradle, XML</li>
-            <li><i class="fas fa-database"></i> Databases: Firebase, SQLite, Room</li>
-            <li><i class="fas fa-mobile-alt"></i> Android SDK & APIs: RESTful APIs, Google Maps API, Firebase Integration</li>
-            <li><i class="fas fa-paint-brush"></i> User Experience Design: Material Design principles, UI/UX best practices</li>
-            <li><i class="fas fa-code-branch"></i> Version Control: Git, GitHub, GitLab</li>
-        </ul>
-        <h3>Soft Skills:</h3>
-        <ul>
-            <li><i class="fas fa-lightbulb"></i> Problem-solving</li>
-            <li><i class="fas fa-brain"></i> Creativity</li>
-            <li><i class="fas fa-comments"></i> Communication</li>
-            <li><i class="fas fa-users"></i> Team Collaboration</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Professional Experience</h2>
-        <h3>Android Developer</h3>
-        <p><strong>Barquecon Technologies</strong> | September 2021 – September 2024</p>
-        <ul>
-            <li><i class="fas fa-tasks"></i> Designed and maintained Android applications for clients across industries.</li>
-            <li><i class="fas fa-comments"></i> Communicated with clients to gather requirements and provide updates.</li>
-            <li><i class="fas fa-star"></i> Successfully launched high-rated apps on the Google Play Store.</li>
-            <li><i class="fas fa-bug"></i> Conducted code reviews and debugging to maintain high code quality.</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Notable Applications on Google Play Store</h2>
-        <ul>
-            <li><a href="https://play.google.com/store/apps/details?id=com.autosgrid">Autosgrid</a>: Enhanced security application.</li>
-            <li><a href="https://play.google.com/store/apps/details?id=com.easy.punch">Easy Punch</a>: Employee attendance tracking.</li>
-            <li><a href="https://play.google.com/store/apps/details?id=com.tek889">Tekelek Radar</a>: Radar management application.</li>
-            <li><a href="https://play.google.com/store/apps/details?id=app.briota.sia">SiA for Healthy Lungs</a>: Respiratory health monitoring.</li>
-            <li><a href="https://play.google.com/store/apps/details?id=com.unicorn.apps&pcampaignid=web_share">Unicorn</a>: Funding and pitch deck platform.</li>
-            <li>Dispatch: Real-time transportation monitoring application.</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Interests</h2>
-        <ul>
-            <li><i class="fas fa-microchip"></i> Gadgets: Passionate about exploring new technology.</li>
-            <li><i class="fas fa-bicycle"></i> Cycling & Swimming: Enjoy outdoor activities to stay fit.</li>
-        </ul>
+        <div class="project">
+            <h3>Easy Punch</h3>
+            <p>Attendance tracking system with offline mode.</p>
+            <a href="https://play.google.com/store/apps/details?id=com.easy.punch" target="_blank">
+                <img src="playstore-badge.png" alt="Get it on Google Play">
+            </a>
+        </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Prajwal Shekhar Gujar</p>
+        <p>&copy; 2025 Prajwal Shekhar Gujar. All rights reserved.</p>
     </footer>
 </body>
 </html>
-
-
-
